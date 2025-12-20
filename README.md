@@ -100,9 +100,3 @@ Integrate API endpoint for third-party usage.
 
 Visualize spam trends and keyword insights.
 
-## ⚙️ Installation & Run
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/mr-akash12/Email_Spam_Classifier_NLP.git
-cd Email_Spam_Classifier_NLP
