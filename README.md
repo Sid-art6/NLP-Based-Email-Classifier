@@ -1,4 +1,4 @@
-# 📧 Email Spam Classifier using NLP & Streamlit
+# 📧 Email Spam Classifier using NLP 
 
 An end-to-end **Natural Language Processing (NLP)** project that classifies incoming emails as **Spam** or **Not Spam (Ham)** using Machine Learning.  
 The project is deployed as an **interactive Streamlit web app** for real-time predictions.
@@ -33,7 +33,7 @@ pandas, numpy
 
 matplotlib, seaborn
 
-Streamlit
+
 
 ## 🧩 Project Workflow
 
