@@ -10,7 +10,6 @@ This project demonstrates the full lifecycle of an NLP-based text classification
 
 It uses **NLTK** for text processing, **TF-IDF** for feature extraction, and a **Naive Bayes classifier** for spam detection.
 
-🔗 **Live App:** https://email-spam-classifier-nlp-op8tjqyeeu5o6cz8a6k2yu.streamlit.app/
 
 ---
 
@@ -60,10 +59,6 @@ Streamlit
   - Confusion Matrix
   - Classification Report
 
-### 5. Deployment (Streamlit)
-- Created an interactive UI using **Streamlit**.
-- User can input an email text → app predicts whether it’s *Spam* or *Ham*.
-- Simple and lightweight web interface.
 - 
 📊 Results
 
